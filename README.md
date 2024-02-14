@@ -1,1 +1,1 @@
-Repo demonstrating extract, transform load metholody on public data.
+Repo demonstrating extract, transform load methodology on public data.
